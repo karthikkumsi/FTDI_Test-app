@@ -1,0 +1,3 @@
+C:\Users\karthik\Desktop\FTDI\FT232h\Ft232h_1212015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Worker.resources
+C:\Users\karthik\Desktop\FTDI\FT232h\Ft232h_1212015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\karthik\Desktop\FTDI\FT232h\Ft232h_1212015\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
